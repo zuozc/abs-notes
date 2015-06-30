@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# author: Loyal Zuo
+# email: zzczuo@gmail.com
+#
 # count specified letters in specified file
 # usage: letter-count.sh file letters
 
