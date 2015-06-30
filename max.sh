@@ -1,5 +1,10 @@
 #!/bin/bash
+
+# author: Loyal Zuo
+# zzczuo@gmail.com
+#
 # max.sh: Find maximum of two integers.
+#
 
 EM_NOT_NUM="illegal number."
 
