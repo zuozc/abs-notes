@@ -46,7 +46,7 @@ is_number $var2
 
 [[ $? -eq 1 ]] && echo "$var2: $EM_NOT_NUM" && exit 1
 
-
+# find max value from two var
 find_max $var1 $var2
 
 exit 0

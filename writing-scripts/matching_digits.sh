@@ -19,6 +19,8 @@ USER_INT=89 # exit status of user interrupt
 
 trap "rm -f $log; exit $USER_INT" INT TERM  # clean when occur user interruption
 
+echo "matching digits"
+
 # match in number range
 for ((i = 10000; i < 20000; i ++)); do
   #echo; echo -n "$i, "
